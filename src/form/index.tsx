@@ -77,7 +77,7 @@ function Form() {
         label="В наличии"
       />
       <Button variant="contained" color="primary" onClick={handleRegister}>
-        Войти
+        Добавить
       </Button>
       <Snackbar
         open={success}
